@@ -28,4 +28,8 @@ public class Dish {
         return name;
     }
     public enum Type { MEAT, FISH, OTHER }
+
+    public static void main(String[] args) {
+        System.out.println("hehe");
+    }
 }
