@@ -47,7 +47,7 @@ public class ArrayQueue {
         arrayQueue.addData(3);
         arrayQueue.addData(8);
         arrayQueue.showQueue();
-        System.out.println(arrayQueue.getData());
+        //System.out.println(arrayQueue.getData());
     }
 
 }
