@@ -6,9 +6,9 @@ import java.util.Map;
 
 public class Test {
     public static void main(String[] args) {
-//        Map<Integer, Integer> cnt = new HashMap<Integer, Integer>();
-//        cnt.getOrDefault(1,0);
-//        List list = new ArrayList<>();
+        Map<Integer, Integer> cnt = new HashMap<Integer, Integer>();
+        cnt.getOrDefault(1,0);
+        List list = new ArrayList<>();
 //        list.stream().filter()
 
     }
